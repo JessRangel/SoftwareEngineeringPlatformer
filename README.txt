@@ -1,3 +1,16 @@
+Playable executable available at https://jessrangel.itch.io/
+
+Software Engineering Project 
+Spring 2021
+Dr. Joanne Skiles
+
+Using Agile methodology and Unity Engine.
+
+Development of the player shooting and enemy behavior was done by Jessica Rangel.
+Development of the player movement, player data, camera movement, hazards, player interactions, and other various implementations was done by Alexander Hecht.
+Level design was done by Joshua Kim.
+Music and sound design was done by Julian Maniquis.
+
 The source code is organized in Unity project files.
 Inside the assets folder there is a folder named "Scripts".
 This is where our scripts for the code are located.
@@ -25,8 +38,3 @@ The file titled "SE Project Final Build.zip" contains the built project in case 
 These files would ideally be sent to users of the program.
 
 The only package that we used outside of creating everything ourselves was the TextMeshPro package so we could make text look better.
-
-Development of the player shooting and enemy behavior was done by Jess Rangel.
-Development of the player movement, player data, camera movement, hazards, player interactions, and other various implementations was done by Alexander Hecht
-Level design was done by Joshua Kim.
-Music and sound design was done by Julian Maniquis.
