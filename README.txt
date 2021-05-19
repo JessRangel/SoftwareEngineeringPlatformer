@@ -6,8 +6,8 @@ Dr. Joanne Skiles
 
 Using Agile methodology and Unity Engine.
 
-Development of the player shooting and enemy behavior was done by Jessica Rangel.
-Development of the player movement, player data, camera movement, hazards, player interactions, and other various implementations was done by Alexander Hecht.
+Development of the projectiles, player shooting behavior, enemy behavior, enemy interactions, user interface and other implementations were done by Jessica Rangel.
+Development of the player movement, player data, camera movement, hazards, player interactions, and other various implementations were done by Alexander Hecht.
 Level design was done by Joshua Kim.
 Music and sound design was done by Julian Maniquis.
 
